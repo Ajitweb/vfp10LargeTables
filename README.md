@@ -1,5 +1,5 @@
 
-1. Download the 4 files into a directory
+1. Download the 4 files into a directory  
    imdb.dbc   
    imdb.dct   
    imdb.dcx   
