@@ -22,6 +22,7 @@ Please note that you need to have the licensed version of Microsoft Visual Foxpr
 set default to the directory that you have the dbc and tsv file  
 use tbasics  
 append from data.tsv delimited with tab  
+You will need to delete the first record - as it contains the field names
 
 ***
 
