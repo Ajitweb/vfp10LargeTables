@@ -1,6 +1,7 @@
 VFP10 breaks the barrier of 2GB limit and supports large table. If you want to experiment with large tables, then here are empty tables which can be populated with imdb data  
 
 VFP Advanced (VFP version 10) is available at [http://www.baiyujia.com/vfpadvanced/f_vfpa_about.asp](http://www.baiyujia.com/vfpadvanced/f_vfpa_about.asp)  
+Please note that you need to have the licensed version of Microsoft Visual Foxpro 9.0, installed in your PC, before installation of VFP10.
 
 1. Download the 4 files into a directory  
    imdb.dbc   
